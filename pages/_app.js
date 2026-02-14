@@ -12,6 +12,7 @@ import { getBaseLayoutByTheme } from '@/themes/theme'
 import { useRouter } from 'next/router'
 import { useCallback, useMemo } from 'react'
 import { getQueryParam } from '../lib/utils'
+import { Analytics } from "@vercel/analytics/next"
 
 // 各种扩展插件 这个要阻塞引入
 import BLOG from '@/blog.config'
@@ -57,6 +58,7 @@ const MyApp = ({ Component, pageProps }) => {
       <GLayout {...pageProps}>
         <SEO {...pageProps} />
         <Component {...pageProps} />
+        <Analytics/>
       </GLayout>
       <ExternalPlugins {...pageProps} />
     </GlobalContextProvider>
