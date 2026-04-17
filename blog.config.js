@@ -17,8 +17,8 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Tao Chen', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一名Next.js全栈开发者', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.nextdaddy.cn', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Tao Chen,陈涛,博客,blog,Next.js', // 网站关键词 英文逗号隔开
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.ctstudio.cloud', // 网站地址
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Tao Chen,陈涛blog,陈涛,博客,Next.js', // 网站关键词 英文逗号隔开
   BLOG_FAVICON: process.env.NEXT_PUBLIC_FAVICON || '/favicon.ico', // blog favicon 配置, 默认使用 /public/favicon.ico，支持在线图片，如 https://img.imesong.com/favicon.png
   BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '萌ICP备20259188号', // 备案号 闽ICP备XXXXXX
   BEI_AN_LINK: process.env.NEXT_PUBLIC_BEI_AN_LINK || 'https://icp.gov.moe/?keyword=20259188', // 备案查询链接，如果用了萌备等备案请在这里填写
