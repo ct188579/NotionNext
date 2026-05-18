@@ -1,10 +1,17 @@
-# Typography 主题
+﻿# Typography 主题
 
 > 主题 ID：`typography` · 预览：[preview.tangly1024.com/?theme=typography](https://preview.tangly1024.com/?theme=typography)
 
 ## 简介
 
 排版优先，强调正文阅读与层级。
+
+## 主题特性
+
+- **定位**：排版优先，强调正文阅读与层级。
+- **适用场景**：排版优先、少干扰
+- **配置前缀**：`TYPOGRAPHY_*`（共 **8** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=typography](https://preview.tangly1024.com/?theme=typography)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/typography/config.js`](../../../themes/typography/config.js)  
+配置文件：[`themes/typography/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/typography/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

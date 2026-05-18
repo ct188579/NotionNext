@@ -1,10 +1,17 @@
-# Landing 主题
+﻿# Landing 主题
 
 > 主题 ID：`landing` · 预览：[preview.tangly1024.com/?theme=landing](https://preview.tangly1024.com/?theme=landing)
 
 ## 简介
 
 单页着陆与分区滚动叙述。
+
+## 主题特性
+
+- **定位**：单页着陆与分区滚动叙述。
+- **适用场景**：单页着陆分区
+- **配置前缀**：`LANDING_*`（共 **65** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=landing](https://preview.tangly1024.com/?theme=landing)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/landing/config.js`](../../../themes/landing/config.js)  
+配置文件：[`themes/landing/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/landing/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->
@@ -68,7 +75,7 @@
 | `LANDING_TESTIMONIALS_P` | 见 config.js |
 | `LANDING_TESTIMONIALS_AVATAR` | 见 config.js |
 
-共 **65** 项，上表列出前 40 项，完整列表见 config.js。
+共 **65** 项，上表列出前 40 项，完整列表见 [config.js](https://github.com/notionnext-org/NotionNext/blob/main/themes/landing/config.js)。
 
 <!-- /theme-config-table -->
 

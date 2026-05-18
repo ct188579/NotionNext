@@ -1,4 +1,4 @@
-# 交流社群
+﻿# 交流社群
 
 > 迁移自：[3.社群讨论](https://docs.tangly1024.com/article/chat-community)
 
@@ -13,7 +13,7 @@ NotionNext 已移交 **[notionnext-org](https://github.com/notionnext-org)** 社
 | [Issues](https://github.com/notionnext-org/NotionNext/issues) | Bug、部署错误、可跟踪任务 |
 | [在线文档](https://notionnext.tangly1024.com) | 教程与页底「文档反馈」（Giscus） |
 
-维护者为志愿者，**无商业 SLA**；详见 [MAINTAINERS.md](../../../MAINTAINERS.md)。
+维护者为志愿者，**无商业 SLA**；详见 [MAINTAINERS.md](https://github.com/notionnext-org/NotionNext/blob/main/MAINTAINERS.md)。
 
 ## 站长微信群
 
@@ -29,8 +29,8 @@ NotionNext 已移交 **[notionnext-org](https://github.com/notionnext-org)** 社
 
 无单独「开发者微信群」。参与方式：
 
-1. 阅读 [参与社区](../community-participate.md) 与 [CONTRIBUTING.zh-CN.md](../../../CONTRIBUTING.zh-CN.md)  
-2. 提交 PR；合并后可在 Discussion 自荐 [维护者](../../../MAINTAINERS.md) 负责域  
+1. 阅读 [参与社区](../community-participate.md) 与 [CONTRIBUTING.zh-CN.md](https://github.com/notionnext-org/NotionNext/blob/main/CONTRIBUTING.zh-CN.md)  
+2. 提交 PR；合并后可在 Discussion 自荐 [维护者](https://github.com/notionnext-org/NotionNext/blob/main/MAINTAINERS.md) 负责域  
 
 Discord 频道已停止维护。
 

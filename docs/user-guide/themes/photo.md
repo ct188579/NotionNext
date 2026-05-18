@@ -1,10 +1,17 @@
-# Photo 主题
+﻿# Photo 主题
 
 > 主题 ID：`photo` · 预览：[preview.tangly1024.com/?theme=photo](https://preview.tangly1024.com/?theme=photo)
 
 ## 简介
 
 摄影作品与相册网格。
+
+## 主题特性
+
+- **定位**：摄影作品与相册网格。
+- **适用场景**：摄影相册、侧栏推荐
+- **配置前缀**：`PHOTO_*`（共 **10** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=photo](https://preview.tangly1024.com/?theme=photo)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/photo/config.js`](../../../themes/photo/config.js)  
+配置文件：[`themes/photo/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/photo/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

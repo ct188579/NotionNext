@@ -1,10 +1,17 @@
-# Fukasawa 主题
+﻿# Fukasawa 主题
 
 > 主题 ID：`fukasawa` · 预览：[preview.tangly1024.com/?theme=fukasawa](https://preview.tangly1024.com/?theme=fukasawa)
 
 ## 简介
 
 深川式多栏与侧边信息密度较高。
+
+## 主题特性
+
+- **定位**：深川式多栏与侧边信息密度较高。
+- **适用场景**：多栏高密度信息
+- **配置前缀**：`FUKASAWA_*`（共 **11** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=fukasawa](https://preview.tangly1024.com/?theme=fukasawa)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/fukasawa/config.js`](../../../themes/fukasawa/config.js)  
+配置文件：[`themes/fukasawa/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/fukasawa/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

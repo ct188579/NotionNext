@@ -1,10 +1,17 @@
-# Plog 主题
+﻿# Plog 主题
 
 > 主题 ID：`plog` · 预览：[preview.tangly1024.com/?theme=plog](https://preview.tangly1024.com/?theme=plog)
 
 ## 简介
 
 偏图片与轻量图文化展示。
+
+## 主题特性
+
+- **定位**：偏图片与轻量图文化展示。
+- **适用场景**：图文轻博客
+- **配置前缀**：`NOBELIUM_*`（共 **6** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=plog](https://preview.tangly1024.com/?theme=plog)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/plog/config.js`](../../../themes/plog/config.js)  
+配置文件：[`themes/plog/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/plog/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

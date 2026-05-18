@@ -1,10 +1,17 @@
-# Movie 主题
+﻿# Movie 主题
 
 > 主题 ID：`movie` · 预览：[preview.tangly1024.com/?theme=movie](https://preview.tangly1024.com/?theme=movie)
 
 ## 简介
 
 影视与海报墙式呈现。
+
+## 主题特性
+
+- **定位**：影视与海报墙式呈现。
+- **适用场景**：影视海报墙
+- **配置前缀**：`MOVIE_*`（共 **10** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=movie](https://preview.tangly1024.com/?theme=movie)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/movie/config.js`](../../../themes/movie/config.js)  
+配置文件：[`themes/movie/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/movie/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

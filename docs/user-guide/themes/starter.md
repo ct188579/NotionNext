@@ -1,10 +1,17 @@
-# Starter 主题
+﻿# Starter 主题
 
 > 主题 ID：`starter` · 预览：[preview.tangly1024.com/?theme=starter](https://preview.tangly1024.com/?theme=starter)
 
 ## 简介
 
 落地页与区块化营销向模板。
+
+## 主题特性
+
+- **定位**：落地页与区块化营销向模板。
+- **适用场景**：营销落地页区块
+- **配置前缀**：`STARTER_*`（共 **148** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=starter](https://preview.tangly1024.com/?theme=starter)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/starter/config.js`](../../../themes/starter/config.js)  
+配置文件：[`themes/starter/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/starter/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->
@@ -68,7 +75,7 @@
 | `STARTER_ABOUT_TEXT` | 见 config.js |
 | `STARTER_ABOUT_BUTTON_TEXT` | 见 config.js |
 
-共 **148** 项，上表列出前 40 项，完整列表见 config.js。
+共 **148** 项，上表列出前 40 项，完整列表见 [config.js](https://github.com/notionnext-org/NotionNext/blob/main/themes/starter/config.js)。
 
 <!-- /theme-config-table -->
 

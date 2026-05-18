@@ -14,7 +14,7 @@
 
 ## 开发者文档
 
-详见 [ARCHITECTURE.md](../../developer/ARCHITECTURE.md)。
+详见 [ARCHITECTURE.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/ARCHITECTURE.md)。
 
 ## 原文链接
 

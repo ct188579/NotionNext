@@ -1,4 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { getThemeSidebarItems } from '../scripts/lib/builtin-themes.mjs'
+
+const themeDocLinks = getThemeSidebarItems()
 
 const giscusEnabled = process.env.VITE_GISCUS_ENABLED !== 'false'
 const giscusRepoId = process.env.VITE_GISCUS_REPO_ID || ''
@@ -21,7 +24,7 @@ export default defineConfig({
   srcExclude,
   cleanUrls: true,
   lastUpdated: true,
-  ignoreDeadLinks: true,
+  ignoreDeadLinks: [/^https?:\/\//],
   head: [['link', { rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml' }]],
   themeConfig: {
     logo: '/favicon.svg',
@@ -86,13 +89,8 @@ export default defineConfig({
           items: [
             { text: '主题目录', link: '/user-guide/themes/' },
             { text: '全览表', link: '/user-guide/themes/THEMES_CATALOG' },
-            { text: 'Simple', link: '/user-guide/themes/simple' },
-            { text: 'Hexo', link: '/user-guide/themes/hexo' },
-            { text: 'Heo', link: '/user-guide/themes/heo' },
-            { text: 'Proxio', link: '/user-guide/themes/proxio' },
-            { text: 'GitBook', link: '/user-guide/themes/gitbook' },
-            { text: 'Claude', link: '/user-guide/themes/claude' },
-            { text: 'ThoughtLite', link: '/user-guide/themes/thoughtlite' }
+            { text: '主题总览', link: '/user-guide/themes/overview' },
+            ...themeDocLinks
           ]
         },
         {

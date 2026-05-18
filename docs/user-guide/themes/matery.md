@@ -1,10 +1,17 @@
-# Matery 主题
+﻿# Matery 主题
 
 > 主题 ID：`matery` · 预览：[preview.tangly1024.com/?theme=matery](https://preview.tangly1024.com/?theme=matery)
 
 ## 简介
 
 卡片式列表与 Material 质感组件。
+
+## 主题特性
+
+- **定位**：卡片式列表与 Material 质感组件。
+- **适用场景**：Material 卡片封面列表
+- **配置前缀**：`MATERY_*`（共 **22** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=matery](https://preview.tangly1024.com/?theme=matery)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@ Material 卡片封面列表
 
 ## 配置说明
 
-配置文件：[`themes/matery/config.js`](../../../themes/matery/config.js)  
+配置文件：[`themes/matery/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/matery/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

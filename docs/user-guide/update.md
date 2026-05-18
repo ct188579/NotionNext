@@ -1,7 +1,7 @@
 ﻿# NotionNext 升级教程
 
 > 迁移自：[NotionNext-升级教程](https://docs.tangly1024.com/article/how-to-update-notionnext)  
-> 仓库内另见：[UPDATE.md](../developer/UPDATE.md)（双分支策略）
+> 仓库内另见：[UPDATE.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/UPDATE.md)（双分支策略）
 
 ## 版本号
 

@@ -1,10 +1,17 @@
-# Hexo 主题
+﻿# Hexo 主题
 
 > 主题 ID：`hexo` · 预览：[preview.tangly1024.com/?theme=hexo](https://preview.tangly1024.com/?theme=hexo)
 
 ## 简介
 
 类 Hexo 经典博客结构与侧边栏。
+
+## 主题特性
+
+- **定位**：类 Hexo 经典博客结构与侧边栏。
+- **适用场景**：类 Hexo 双栏博客
+- **配置前缀**：`HEXO_*`（共 **29** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=hexo](https://preview.tangly1024.com/?theme=hexo)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/hexo/config.js`](../../../themes/hexo/config.js)  
+配置文件：[`themes/hexo/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/hexo/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

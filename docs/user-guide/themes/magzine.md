@@ -1,10 +1,17 @@
-# Magazine 主题
+﻿# Magazine 主题
 
 > 主题 ID：`magzine` · 预览：[preview.tangly1024.com/?theme=magzine](https://preview.tangly1024.com/?theme=magzine)
 
 ## 简介
 
 杂志封面与大图列表风格。
+
+## 主题特性
+
+- **定位**：杂志封面与大图列表风格。
+- **适用场景**：杂志封面大图列表
+- **配置前缀**：`MAGZINE_*`（共 **31** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=magzine](https://preview.tangly1024.com/?theme=magzine)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/magzine/config.js`](../../../themes/magzine/config.js)  
+配置文件：[`themes/magzine/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/magzine/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

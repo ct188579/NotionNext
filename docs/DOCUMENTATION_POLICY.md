@@ -8,11 +8,11 @@
 
 | 目录 | 用途 |
 | --- | --- |
-| [`docs/user-guide/`](./user-guide/README.md) | 部署、配置、Notion 数据库、菜单、升级等**用户教程**（从官方站点迁移并持续更新） |
-| [`docs/user-guide/reference/`](./user-guide/reference/README.md) | **4.9.x 参考手册**：全站配置索引、Notion 新能力（与 `conf/` 同步维护） |
+| [`docs/user-guide/`](./user-guide/) | 部署、配置、Notion 数据库、菜单、升级等**用户教程**（从官方站点迁移并持续更新） |
+| [`docs/user-guide/reference/`](./user-guide/reference/) | **4.9.x 参考手册**：全站配置索引、Notion 新能力（与 `conf/` 同步维护） |
 | [`docs/user-guide/themes/THEMES_CATALOG.md`](./user-guide/themes/THEMES_CATALOG.md) | **25 个内置主题**全表与选型 |
-| [`docs/developer/themes/`](./developer/themes/README.md) | **开发者向**长篇（Claude 全局改动等）；站长向在 `user-guide/themes/<id>.md` |
-| [`docs/developer/`](./developer/README.md) | 架构、贡献流程、主题开发者长文（不进在线站） |
+| [`docs/developer/themes/`（GitHub）](https://github.com/notionnext-org/NotionNext/tree/main/docs/developer/themes) | **开发者向**长篇（Claude 全局改动等）；站长向在 `user-guide/themes/<id>.md` |
+| [`docs/developer/`（GitHub）](https://github.com/notionnext-org/NotionNext/tree/main/docs/developer) | 架构、贡献流程、主题开发者长文（不进在线站） |
 
 ## 为何迁到 GitHub
 
@@ -32,14 +32,14 @@
 
 简要规则：
 
-1. 用户向教程 → 编辑 `docs/user-guide/**/*.md`，并同步 [`README.md`](./user-guide/README.md)、[`ARTICLE_INDEX.md`](./user-guide/ARTICLE_INDEX.md)。
+1. 用户向教程 → 编辑 `docs/user-guide/**/*.md`，并同步 [`user-guide` 目录索引](./user-guide/)、[`ARTICLE_INDEX.md`](./user-guide/ARTICLE_INDEX.md)。
 2. 主题说明 → `docs/user-guide/themes/<id>.md`；仅开发细节写 `docs/developer/themes/`。
 3. 勿将个人 `.env`、私有 ID 写入示例。
 4. PR 描述中注明：是否替代/补充线上某篇文档（附 slug 或 URL）。
 
 ## 迁移进度
 
-官方帮助手册**核心栏目**已迁入 [`user-guide/`](./user-guide/README.md)，对照表见 [`user-guide/ARTICLE_INDEX.md`](./user-guide/ARTICLE_INDEX.md)。状态见 [`user-guide/MIGRATION_STATUS.md`](./user-guide/MIGRATION_STATUS.md)。
+官方帮助手册**核心栏目**已迁入 [`user-guide/`](./user-guide/)，对照表见 [`user-guide/ARTICLE_INDEX.md`](./user-guide/ARTICLE_INDEX.md)。状态见 [`user-guide/MIGRATION_STATUS.md`](./user-guide/MIGRATION_STATUS.md)。
 
 ---
 

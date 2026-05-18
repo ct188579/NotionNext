@@ -11,8 +11,8 @@
 | [reference/features.md](./reference/features.md) | 全站 `conf/*.config.js` 配置索引 |
 | [reference/notion-4x.md](./reference/notion-4x.md) | NOTION_INDEX、TOP_TAG、密码、评论 Hide 等 |
 | [themes/THEMES_CATALOG.md](./themes/THEMES_CATALOG.md) | 25 个内置主题全表 |
-| [themes/README.md](./themes/README.md) | 25 个主题各一篇 `<id>.md` 说明 |
-| [deploy/README.md](./deploy/README.md) | 部署栏目索引 → 根目录 `DEPLOYMENT.md` |
+| [themes/](./themes/) | 25 个主题各一篇 `<id>.md` 说明 |
+| [deploy/](./deploy/) | 部署栏目索引 |
 
 ## 入门
 

@@ -23,7 +23,7 @@ docs/
 └── user-guide/          ← 全部进入在线站
 ```
 
-**不包含** `docs/developer/`（开发者文档仅 GitHub 阅读）。配置见 [`.vitepress/config.mts`](../../.vitepress/config.mts) 的 `srcExclude: ['developer/**', ...]`。
+**不包含** `docs/developer/`（开发者文档仅 GitHub 阅读）。配置见 [`.vitepress/config.mts`](https://github.com/notionnext-org/NotionNext/blob/main/.vitepress/config.mts) 的 `srcExclude: ['developer/**', ...]`。
 
 ## 配置位置
 

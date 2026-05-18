@@ -4,10 +4,10 @@
 
 ⚠️ **更完整的开发者文档**请以本仓库为准：
 
-- [docs/developer/GETTING_STARTED.md](../../developer/GETTING_STARTED.md)  
-- [docs/ARCHITECTURE.md](../../developer/ARCHITECTURE.md)  
-- [docs/PROJECT_STRUCTURE.md](../../developer/PROJECT_STRUCTURE.md)  
-- [CONTRIBUTING.md](../../../CONTRIBUTING.md)
+- [docs/developer/GETTING_STARTED.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/GETTING_STARTED.md)  
+- [docs/ARCHITECTURE.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/ARCHITECTURE.md)  
+- [docs/PROJECT_STRUCTURE.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/PROJECT_STRUCTURE.md)  
+- [CONTRIBUTING.md](https://github.com/notionnext-org/NotionNext/blob/main/CONTRIBUTING.md)
 
 ## 环境
 
@@ -30,7 +30,7 @@ GitHub 仓库 → **Code** → **Codespaces** → Create → 终端 `yarn` → `
 1. Clone 仓库（GitHub Desktop 或 `git clone`）  
 2. `yarn` 安装依赖  
 3. `.env.local` 配置 `NOTION_PAGE_ID` 等  
-4. `yarn dev` → 打开 http://localhost:3000  
+4. `yarn dev` → 浏览器打开 `http://localhost:3000`  
 
 VS Code 可用 `.vscode/launch.json` 调试 Server / Client / Full Stack。
 

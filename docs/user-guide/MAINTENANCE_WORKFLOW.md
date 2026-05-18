@@ -3,7 +3,7 @@
 面向**站长、贡献者、维护者**：如何在仓库内正确新增、修改、排序 NotionNext 使用说明。
 
 > 策略总纲：[DOCUMENTATION_POLICY.md](../DOCUMENTATION_POLICY.md)  
-> 读者导航：[README.md](./README.md) · 官方 slug 对照：[ARTICLE_INDEX.md](./ARTICLE_INDEX.md)
+> 读者导航：[使用说明目录](./) · 官方 slug 对照：[ARTICLE_INDEX.md](./ARTICLE_INDEX.md)
 
 ---
 
@@ -93,7 +93,7 @@ https://docs.tangly1024.com/article/slug
 ```
 
 3. **更新导航（必做）**  
-   - [README.md](./README.md)：在对应栏目下增加一条链接。  
+   - [使用说明目录](./)：在对应栏目下增加一条链接。  
    - [ARTICLE_INDEX.md](./ARTICLE_INDEX.md)：增加一行 `slug | 本地路径`。  
    - [MIGRATION_STATUS.md](./MIGRATION_STATUS.md)：若从「待迁移」变为已迁移，改状态表。  
 4. **交叉引用**：若涉及环境变量，在正文注明 `NEXT_PUBLIC_*` 与 `conf/*.config.js` 中的键名。  
@@ -169,7 +169,7 @@ https://docs.tangly1024.com/article/slug
 
 - 文档专用分支：`docs/xxx` 或 `docs/user-guide-xxx`。  
 - 文档与功能分 PR 时，在功能 PR 中写 `Docs follow-up: #xxx`。  
-- 遵循 [CONTRIBUTION_WORKFLOW.md](../CONTRIBUTION_WORKFLOW.md)（lint/test 对纯文档 PR 可选，但勿改无关文件）。
+- 遵循 [CONTRIBUTION_WORKFLOW.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/CONTRIBUTION_WORKFLOW.md)（lint/test 对纯文档 PR 可选，但勿改无关文件）。
 
 ---
 

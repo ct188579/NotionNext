@@ -54,7 +54,7 @@
 # 帮助教程
 
 - **在线文档站（推荐）**：[notionnext.tangly1024.com](https://notionnext.tangly1024.com) · 仓库目录 [docs/user-guide/](./docs/user-guide/)
-- **4.9.x 参考手册**：[全站配置索引](./docs/user-guide/reference/features.md) · [25 个主题说明](./docs/user-guide/themes/README.md) · [本地预览文档站](./docs/user-guide/WEBSITE.md)（`yarn docs:site:dev`）
+- **4.9.x 参考手册**：[全站配置索引](./docs/user-guide/reference/features.md) · [25 个主题说明](./docs/user-guide/themes/) · [本地预览文档站](./docs/user-guide/WEBSITE.md)（`yarn docs:site:dev`）
 - **文档维护工作流**：[docs/user-guide/MAINTENANCE_WORKFLOW.md](./docs/user-guide/MAINTENANCE_WORKFLOW.md)（目录秩序、检查清单、注意事项）
 - **维护策略**：[docs/DOCUMENTATION_POLICY.md](./docs/DOCUMENTATION_POLICY.md)
 - **旧版手册**：[docs.tangly1024.com](https://docs.tangly1024.com/) · [slug 对照与迁移索引](./docs/user-guide/help/legacy-docs.md)（重要章节已迁入 `docs/user-guide/`）

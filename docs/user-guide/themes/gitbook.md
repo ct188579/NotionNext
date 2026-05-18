@@ -1,10 +1,17 @@
-# GitBook 主题
+﻿# GitBook 主题
 
 > 主题 ID：`gitbook` · 预览：[preview.tangly1024.com/?theme=gitbook](https://preview.tangly1024.com/?theme=gitbook)
 
 ## 简介
 
 文档与手册式侧栏目录结构。
+
+## 主题特性
+
+- **定位**：文档与手册式侧栏目录结构。
+- **适用场景**：技术文档、手册侧栏目录
+- **配置前缀**：`GITBOOK_*`（共 **11** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=gitbook](https://preview.tangly1024.com/?theme=gitbook)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/gitbook/config.js`](../../../themes/gitbook/config.js)  
+配置文件：[`themes/gitbook/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/gitbook/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

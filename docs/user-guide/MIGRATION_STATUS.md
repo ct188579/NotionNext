@@ -11,12 +11,12 @@
 | 栏目 | 本地目录 |
 | --- | --- |
 | 入门 / 部署入门 | 根目录 `intro.md`、`deploy-vercel.md` 等 |
-| 安装部署 | [deploy/](./deploy/)（含 [deploy/README.md](./deploy/README.md)） |
+| 安装部署 | [deploy/](./deploy/) |
 | 站点配置 | [config/](./config/)、`config-site.md` |
 | Notion 教程 | [notion/](./notion/)、`notion-database.md` |
 | 菜单 | `menu-secondary.md` |
-| 更新日志 | [changelog/](./changelog/)、[../UPDATE.md](../developer/UPDATE.md) |
-| 主题 | [user-guide/themes/](./themes/)（含 [THEMES_CATALOG.md](./themes/THEMES_CATALOG.md)）；开发长文 [../developer/themes/](../developer/themes/) |
+| 更新日志 | [changelog/](./changelog/)、[UPDATE.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/UPDATE.md) |
+| 主题 | [themes/](./themes/)（含 [THEMES_CATALOG.md](./themes/THEMES_CATALOG.md)）；开发长文 [docs/developer/themes（GitHub）](https://github.com/notionnext-org/NotionNext/tree/main/docs/developer/themes) |
 | 网站统计 | [analytics/](./analytics/) |
 | 评论插件 | [comments/](./comments/) |
 | 外部扩展 | [plugins/](./plugins/) |

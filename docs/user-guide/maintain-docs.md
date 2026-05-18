@@ -1,4 +1,4 @@
-# 参与维护在线文档
+﻿# 参与维护在线文档
 
 > 第一次参与？先看 **[参与社区](./community-participate.md)**（提问、PR、维护者路径）。
 
@@ -56,7 +56,7 @@ push main（docs/user-guide/ 等变更）
 | `VITE_GISCUS_CATEGORY_ID` | `DIC_kwDOGHdxT84CBR2I` |
 
 **GitHub Actions**：已在组织仓库 Secrets 中配置上述两项（构建 workflow 会自动注入）。  
-**本地预览**：复制根目录 [`.env.docs.example`](../../.env.docs.example) 为 `.env.local` 后执行 `yarn docs:site:dev`。  
+**本地预览**：复制根目录 [`.env.docs.example`](https://github.com/notionnext-org/NotionNext/blob/main/.env.docs.example) 为 `.env.local` 后执行 `yarn docs:site:dev`。  
 **Cloudflare 直连构建**：若不用 Actions，在 Pages 环境变量中写入同上两项。
 
 可选 `VITE_GISCUS_ENABLED=false` 关闭评论区。未配置 ID 时页底仅显示 Issue 链接。单页 frontmatter：`comments: false`。

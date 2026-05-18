@@ -6,6 +6,13 @@
 
 轻工业终末风，侧栏导航、悬浮控件与加载动画。
 
+## 主题特性
+
+- **定位**：轻工业终末风，侧栏导航、悬浮控件与加载动画。
+- **适用场景**：工业风加载与侧栏
+- **配置前缀**：`ENDSPACE_*`（共 **19** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=endspace](https://preview.tangly1024.com/?theme=endspace)
+
 ## 适用场景
 
 工业风加载与侧栏
@@ -18,11 +25,11 @@
 
 ## 开发者深度文档
 
-实现细节、全局改动与架构说明见 [Endspace 开发者文档](../../developer/themes/ENDSPACE.md)（docs/developer/themes/，与本文站长向说明分工）。
+实现细节、全局改动与架构说明见 [Endspace 开发者文档（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/themes/ENDSPACE.md)（docs/developer/themes/，与本文站长向说明分工）。
 
 ## 配置说明
 
-配置文件：[`themes/endspace/config.js`](../../../themes/endspace/config.js)  
+配置文件：[`themes/endspace/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/endspace/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

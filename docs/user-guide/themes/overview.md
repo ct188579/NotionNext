@@ -30,13 +30,13 @@
 
 ## 各主题说明（25 篇）
 
-- **完整列表**：[themes/README.md](./README.md)（每主题一篇 `<id>.md`）  
+- **完整列表**：[主题目录](./)（每主题一篇 `<id>.md`）  
 - **选型总表**：[THEMES_CATALOG.md](./THEMES_CATALOG.md)  
 - **开发者深度文档**（Claude 全局 `_app.js` 等）：`docs/developer/themes/` 下 CLAUDE、ENDSPACE 等；站长向以本目录 `<id>.md` 为准
 
 ## 自建主题
 
-[development/own-theme.md](../development/own-theme.md) · [THEME_MIGRATION_GUIDE.zh-CN.md](../../developer/THEME_MIGRATION_GUIDE.zh-CN.md)
+[development/own-theme.md](../development/own-theme.md) · [THEME_MIGRATION_GUIDE.zh-CN.md](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/THEME_MIGRATION_GUIDE.zh-CN.md)
 
 ## 历史原文
 

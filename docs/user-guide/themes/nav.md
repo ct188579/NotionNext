@@ -1,10 +1,17 @@
-# Nav 主题
+﻿# Nav 主题
 
 > 主题 ID：`nav` · 预览：[preview.tangly1024.com/?theme=nav](https://preview.tangly1024.com/?theme=nav)
 
 ## 简介
 
 顶部导航主导航的现代布局。
+
+## 主题特性
+
+- **定位**：顶部导航主导航的现代布局。
+- **适用场景**：导航站、链接聚合
+- **配置前缀**：`NAV_*`（共 **10** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=nav](https://preview.tangly1024.com/?theme=nav)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/nav/config.js`](../../../themes/nav/config.js)  
+配置文件：[`themes/nav/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/nav/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

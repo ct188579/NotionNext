@@ -1,10 +1,17 @@
-# Commerce 主题
+﻿# Commerce 主题
 
 > 主题 ID：`commerce` · 预览：[preview.tangly1024.com/?theme=commerce](https://preview.tangly1024.com/?theme=commerce)
 
 ## 简介
 
 电商与商品展示向页面结构。
+
+## 主题特性
+
+- **定位**：电商与商品展示向页面结构。
+- **适用场景**：商品展示页
+- **配置前缀**：`COMMERCE_*`（共 **14** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=commerce](https://preview.tangly1024.com/?theme=commerce)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/commerce/config.js`](../../../themes/commerce/config.js)  
+配置文件：[`themes/commerce/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/commerce/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

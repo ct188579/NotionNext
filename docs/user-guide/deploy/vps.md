@@ -13,7 +13,7 @@
 3. `yarn` → `yarn build` → `yarn start`（或使用项目提供的 Docker 配置）  
 4. 用 Nginx/Caddy 反代并配置 HTTPS
 
-具体命令以仓库 [GETTING_STARTED.md](../../developer/GETTING_STARTED.md) 与 Docker 相关文件为准。
+具体命令以仓库 [GETTING_STARTED.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/GETTING_STARTED.md) 与 Docker 相关文件为准。
 
 ## 原文链接
 

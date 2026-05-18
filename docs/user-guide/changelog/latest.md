@@ -20,8 +20,8 @@
 
 ## 如何升级
 
-- 站长：[update.md](../developer/UPDATE.md)
-- 开发者：[UPDATE.md](../../developer/UPDATE.md)
+- 站长：[update.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/UPDATE.md)
+- 开发者：[UPDATE.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/UPDATE.md)
 
 ## 历史版本全文
 

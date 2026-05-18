@@ -1,10 +1,17 @@
-# Next 主题
+﻿# Next 主题
 
 > 主题 ID：`next` · 预览：[preview.tangly1024.com/?theme=next](https://preview.tangly1024.com/?theme=next)
 
 ## 简介
 
 经典双栏布局，右侧栏与移动端悬浮目录。
+
+## 主题特性
+
+- **定位**：经典双栏布局，右侧栏与移动端悬浮目录。
+- **适用场景**：经典双栏 + 移动 TOC
+- **配置前缀**：`NEXT_*`（共 **27** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=next](https://preview.tangly1024.com/?theme=next)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/next/config.js`](../../../themes/next/config.js)  
+配置文件：[`themes/next/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/next/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

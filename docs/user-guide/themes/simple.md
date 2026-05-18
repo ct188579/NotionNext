@@ -1,10 +1,17 @@
-# Simple 主题
+﻿# Simple 主题
 
 > 主题 ID：`simple` · 预览：[preview.tangly1024.com/?theme=simple](https://preview.tangly1024.com/?theme=simple)
 
 ## 简介
 
 极简清爽，适合文字为主的博客。
+
+## 主题特性
+
+- **定位**：极简清爽，适合文字为主的博客。
+- **适用场景**：个人文字博客、默认入门
+- **配置前缀**：`SIMPLE_*`（共 **12** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=simple](https://preview.tangly1024.com/?theme=simple)
 
 ## 适用场景
 
@@ -18,7 +25,7 @@
 
 ## 配置说明
 
-配置文件：[`themes/simple/config.js`](../../../themes/simple/config.js)  
+配置文件：[`themes/simple/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/simple/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->

@@ -1,4 +1,4 @@
-# Proxio 主题
+﻿# Proxio 主题
 
 > 主题 ID：`proxio` · 预览：[preview.tangly1024.com/?theme=proxio](https://preview.tangly1024.com/?theme=proxio)  
 > 迁移自：[Notion next proxio](https://docs.tangly1024.com/article/notion-next-proxio)
@@ -6,6 +6,13 @@
 ## 简介
 
 作品集与个人品牌展示增强。Proxio 为产品落地页风格主题（Landing-2），适合 SaaS / 作品集首页。
+
+## 主题特性
+
+- **定位**：作品集与个人品牌展示增强。
+- **适用场景**：作品集、SaaS 品牌站
+- **配置前缀**：`PROXIO_*`（共 **99** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=proxio](https://preview.tangly1024.com/?theme=proxio)
 
 ## 适用场景
 
@@ -94,7 +101,7 @@ Proxio 复用 HEO 主题的配置键名（历史命名，与是否使用 HEO 主
 
 ## 配置说明
 
-配置文件：[`themes/proxio/config.js`](../../../themes/proxio/config.js)  
+配置文件：[`themes/proxio/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/proxio/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->
@@ -144,7 +151,7 @@ Proxio 复用 HEO 主题的配置键名（历史命名，与是否使用 HEO 主
 | `PROXIO_FEATURE_BUTTON_URL` | 见 config.js |
 | `PROXIO_CAREER_ENABLE` | 见 config.js |
 
-共 **99** 项，上表列出前 40 项，完整列表见 config.js。
+共 **99** 项，上表列出前 40 项，完整列表见 [config.js](https://github.com/notionnext-org/NotionNext/blob/main/themes/proxio/config.js)。
 
 <!-- /theme-config-table -->
 

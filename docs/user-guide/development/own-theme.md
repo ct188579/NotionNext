@@ -8,7 +8,7 @@
 2. 保留 `components/`、`config.js`、`index.js`、`style.js`  
 3. 在 `config.js` 定义主题配置项  
 4. 设置 `THEME` / `NEXT_PUBLIC_THEME` 为你的文件夹名  
-5. 向上游贡献：见 [THEME_MIGRATION_GUIDE.zh-CN.md](../../developer/THEME_MIGRATION_GUIDE.zh-CN.md)（预览图、`themeSwitch.manifest` 等）
+5. 向上游贡献：见 [THEME_MIGRATION_GUIDE.zh-CN.md（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/THEME_MIGRATION_GUIDE.zh-CN.md)（预览图、`themeSwitch.manifest` 等）
 
 ## 原文链接
 

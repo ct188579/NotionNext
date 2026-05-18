@@ -6,6 +6,13 @@
 
 类 Claude Docs 的文档与终端氛围。
 
+## 主题特性
+
+- **定位**：类 Claude Docs 的文档与终端氛围。
+- **适用场景**：文档风、GitHub 式首页
+- **配置前缀**：`CLAUDE_*`（共 **17** 项，见下方配置表）
+- **在线预览**：[preview.tangly1024.com/?theme=claude](https://preview.tangly1024.com/?theme=claude)
+
 ## 适用场景
 
 文档风、GitHub 式首页
@@ -18,11 +25,11 @@
 
 ## 开发者深度文档
 
-实现细节、全局改动与架构说明见 [Claude 开发者文档](../../developer/themes/CLAUDE.md)（docs/developer/themes/，与本文站长向说明分工）。
+实现细节、全局改动与架构说明见 [Claude 开发者文档（GitHub）](https://github.com/notionnext-org/NotionNext/blob/main/docs/developer/themes/CLAUDE.md)（docs/developer/themes/，与本文站长向说明分工）。
 
 ## 配置说明
 
-配置文件：[`themes/claude/config.js`](../../../themes/claude/config.js)  
+配置文件：[`themes/claude/config.js`](https://github.com/notionnext-org/NotionNext/blob/main/themes/claude/config.js)  
 也可在 **Notion Config** 表中填写同名键（对象/数组用 JSON）。
 
 <!-- theme-config-table -->
